@@ -8,7 +8,7 @@ dance of a wide range of proteins present in a data set. When NSAF values are lo
 tion, facilitating analysis of statistically signiﬁcant changes in expression. NSAF values have also been shown to have very 
 similar statistical properties to comparable RNA transcript abundance values (1)
 
-$(NSpC)*k* = (SpC/*L*)/ \sigma (SpC/*L*)*i*$
+$(NSpC)*k* = (SpC/*L*)/ \lambda (SpC/*L*)*i* $
 
 ![](https://latex.codecogs.com/gif.latex?\bg_black&space;(NSpC)k=(SpC/L)k/\sum(SpC/L)i)
 
