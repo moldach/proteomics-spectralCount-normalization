@@ -10,6 +10,11 @@ similar statistical properties to comparable RNA transcript abundance values (1)
 
 $(NSpC)*k* = (SpC/*L*)/ \lambda (SpC/*L*)*i* $
 
+$A = (\pi * \lambda) $
+$A = (\pi * \lambda)$
+$A = (\pi * \lambda )$
+$A = (\pi * \lambda ) $
+
 ![](https://latex.codecogs.com/gif.latex?\bg_black&space;(NSpC)k=(SpC/L)k/\sum(SpC/L)i)
 
 (1) Neilson, Karlie & Keighley, Tim & Pascovici, Dana & Cooke, Brett & Haynes, Paul. (2013). Label-Free Quantitative Shotgun Proteomics Using Normalized Spectral Abundance Factors. Methods in molecular biology (Clifton, N.J.). 1002. 205-22. 10.1007/978-1-62703-360-2_17. 
