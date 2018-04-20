@@ -8,8 +8,6 @@ dance of a wide range of proteins present in a data set. When NSAF values are lo
 tion, facilitating analysis of statistically signiﬁcant changes in expression. NSAF values have also been shown to have very 
 similar statistical properties to comparable RNA transcript abundance values (1)
 
-$A = (\pi * \lambda \times r^{4}) / \alpha $
-
 ![](https://latex.codecogs.com/gif.latex?\bg_black&space;(NSpC)k=(SpC/L)k/\sum(SpC/L)i)
 
 (1) Neilson, Karlie & Keighley, Tim & Pascovici, Dana & Cooke, Brett & Haynes, Paul. (2013). Label-Free Quantitative Shotgun Proteomics Using Normalized Spectral Abundance Factors. Methods in molecular biology (Clifton, N.J.). 1002. 205-22. 10.1007/978-1-62703-360-2_17. 
